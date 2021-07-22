@@ -1,7 +1,7 @@
 this is a test github file
 iiiiiiiii
 now i add a line code
-我也添加了代码
+我也添加了
 
 970也添加了代码
 970再添加
@@ -10,4 +10,6 @@ testasdf
 
 fork the respository
 
+
+东方不败修改了文件
 岳不群修改了文件
